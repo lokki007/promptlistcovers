@@ -1,11 +1,11 @@
 ## 6 AI Prompts: 
 
-## Evaluation of Lead Generation Options
-1. I'm not sure about the benefits of using AI for lead generation and if it's the right solution for my agency. How can I gain a clear understanding of the benefits of using AI for lead generation and determine if it's suitable for my agency?
-2. I'm overwhelmed by the options available for AI-powered lead generation and don't know how to evaluate them. What steps can I take to effectively evaluate different options for AI-powered lead generation and choose the best solution for my agency?
-3. I'm concerned about the time and effort required to implement AI-powered lead generation and if it's worth outsourcing the process. How can I assess the time and effort required to implement AI-powered lead generation and determine if outsourcing is the right choice for my agency?
+## Evaluation of Current Lead Generation Process
+1. Identifying the inefficiencies and challenges in their current lead generation process is overwhelming and time-consuming. How can advertising agencies efficiently evaluate their current lead generation process to identify inefficiencies and challenges?
+2. Recognizing the need for improvement and the advantages of using AI in lead generation is difficult for advertising agencies. What steps can advertising agencies take to recognize the need for improvement and understand the advantages of using AI in lead generation?
+3. The time spent in evaluating the current lead generation process is a barrier for advertising agencies. How can advertising agencies streamline and optimize the time spent in evaluating their current lead generation process?
 
-## Implementation of AI-Powered Lead Generation
-1. I'm unsure how to integrate AI-powered lead generation into my agency's workflow and ensure a smooth transition. What steps can I follow to seamlessly integrate AI-powered lead generation into my agency's workflow and overcome any challenges that may arise?
-2. I'm concerned about the learning curve and the effort required to train my team on using AI for lead generation. How can I effectively train my team to use AI for lead generation and ensure they are comfortable with the new technology?
-3. I'm worried about the potential disruption to our existing lead generation processes and if the change will be worth it. What measures can I take to minimize disruption during the implementation of AI-powered lead generation and ensure the benefits outweigh the challenges?
+## Solution and Implementation
+1. Overcoming the barriers of skill requirements and resource limitations to implement a streamlined lead generation process using AI is challenging for advertising agencies. What strategies can advertising agencies employ to overcome skill requirements and resource limitations and successfully implement a streamlined lead generation process using AI?
+2. The time taken to integrate the outsourced lead generation solution is a concern for advertising agencies. How can advertising agencies effectively manage the time taken to integrate the outsourced lead generation solution?
+3. Choosing to outsource the lead generation tasks and focusing on core competencies require effort and sacrifice from advertising agencies. What steps can advertising agencies take to ensure a smooth transition from in-house lead generation to outsourcing and focus on their core competencies?

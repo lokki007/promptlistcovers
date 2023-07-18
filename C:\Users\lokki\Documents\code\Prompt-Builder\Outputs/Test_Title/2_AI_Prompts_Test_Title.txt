@@ -1,7 +1,5 @@
 ## Test Title
 
-## Category 1
+## Category
 1. Prompt 1
-
-## Category 2
-1. Prompt 2
+2. Prompt 2

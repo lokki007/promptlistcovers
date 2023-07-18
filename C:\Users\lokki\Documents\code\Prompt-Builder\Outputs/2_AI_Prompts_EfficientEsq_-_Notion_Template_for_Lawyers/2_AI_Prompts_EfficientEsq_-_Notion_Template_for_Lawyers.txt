@@ -1,0 +1,5 @@
+## 2 AI Prompts: EfficientEsq - Notion Template for Lawyers
+
+## Streamlining Legal Workflows
+1. I struggle with managing and organizing legal documents effectively, leading to confusion and wasted time. How can I leverage Notion's features to create a centralized and efficient system for managing and organizing legal documents?
+2. Collaborating with colleagues and tracking progress on shared legal projects feels disorganized and inefficient. What methods can I use to streamline collaboration and track progress on shared legal projects using Notion?

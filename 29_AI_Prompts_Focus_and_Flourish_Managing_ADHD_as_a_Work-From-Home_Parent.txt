@@ -1,0 +1,54 @@
+## <bound method PromptListGenerator._get_prompt_list_title of <app.generators.Prompt_List.prompt_list_gen.PromptListGenerator object at 0x0000018A711DBC40>>
+
+## Assessing ADHD Symptoms and Challenges
+
+## Educating Themselves on ADHD and Work-from-Home Strategies
+
+## Setting Realistic Goals for Work and Parenting
+
+## Creating Systems for Organization and Time Management
+
+## Seeking Support from Professionals and Peers
+
+## Prioritizing Self-Care and Well-being
+
+## Assessing ADHD Symptoms and Challenges
+1. I struggle to identify the specific ADHD symptoms that are impacting my work-from-home and parenting life. How can I accurately assess and understand the ADHD symptoms that are affecting my daily life?
+2. I find it challenging to recognize the impact of ADHD on my daily functioning as a work-from-home parent. How can I gain a deeper understanding of how ADHD affects my ability to work from home and parent effectively?
+3. I'm unsure about the time and effort required to self-reflect and assess the reality of my ADHD symptoms and challenges. What steps can I take to spend time in self-reflection and honestly evaluate the impact of my ADHD on my work-from-home and parenting life?
+4. Facing the reality of my ADHD symptoms and challenges feels overwhelming and requires sacrifice. How can I gather the courage to face the reality of my ADHD symptoms and challenges and make the necessary changes?
+
+## Educating Themselves on ADHD and Work-from-Home Strategies
+1. Finding reliable resources and information about ADHD and work-from-home strategies feels overwhelming. How can I find trustworthy sources and gather valuable information about ADHD and effective strategies for managing it while working from home?
+2. I struggle to comprehend the impact of ADHD on my work and parenting life. What steps can I take to enhance my understanding of how ADHD affects my ability to work from home and parent effectively?
+3. I'm uncertain about the time and effort required to acquire the necessary knowledge about ADHD and work-from-home strategies. How can I invest my time and effort effectively to educate myself about ADHD and strategies for managing it while working from home?
+4. The thought of investing time and effort into self-education feels overwhelming and requires sacrifice. What strategies can I employ to motivate myself and overcome the challenges associated with self-education on ADHD and work-from-home strategies?
+
+## Setting Realistic Goals for Work and Parenting
+1. Overcoming perfectionism and setting realistic expectations for myself as a work-from-home parent with ADHD feels challenging. How can I overcome perfectionism and set achievable goals that align with my work and parenting responsibilities as someone with ADHD?
+2. I'm unsure about the time required to evaluate my priorities and set realistic goals as a work-from-home parent with ADHD. What steps can I take to effectively evaluate my priorities and set realistic goals that are manageable within my work-from-home and parenting life?
+3. Making the commitment to set realistic goals as a work-from-home parent with ADHD feels overwhelming and requires sacrifice. How can I gather the motivation and courage to make the commitment to set realistic goals that will help me balance my work and parenting responsibilities as someone with ADHD?
+
+## Creating Systems for Organization and Time Management
+1. I struggle with staying organized and managing my time effectively while working from home. How can I create systems that help me stay organized and manage my time efficiently?
+2. I find it challenging to prioritize tasks and stay on track with my work and parenting responsibilities. What strategies can I implement to prioritize tasks and stay focused on my work and parenting responsibilities?
+3. I often forget important deadlines and appointments, causing me stress and frustration. How can I develop effective reminders and systems to help me remember important deadlines and appointments?
+4. I struggle with maintaining a consistent routine, which affects my productivity and overall well-being. What steps can I take to create and stick to a consistent routine that supports my work and parenting responsibilities?
+5. I have difficulty managing distractions and staying focused on my work while being surrounded by my children. How can I minimize distractions and stay focused on my work while being present for my children?
+6. I feel overwhelmed with the number of tasks and responsibilities I have to juggle throughout the day. What strategies can I use to break down tasks and manage my workload to prevent overwhelm?
+
+## Seeking Support from Professionals and Peers
+1. I struggle to find professionals who understand ADHD and can provide guidance and support. How can I find professionals who specialize in ADHD and can offer the guidance and support I need?
+2. I feel isolated and would like to connect with peers who understand what it's like to navigate ADHD as a work-from-home parent. What steps can I take to connect with peers who are also work-from-home parents with ADHD?
+3. I'm unsure how to build a support network that can provide the understanding and assistance I need. How can I build a support network of individuals who understand ADHD and can offer assistance when needed?
+4. I'm hesitant to seek help due to the fear of being judged or misunderstood. What strategies can I use to overcome the fear of seeking help and feel more comfortable reaching out for support?
+5. I'm overwhelmed by the abundance of information available on ADHD management and don't know where to start. How can I filter through the information overload and find reliable resources and professionals for ADHD management?
+6. I have difficulty expressing my needs and concerns related to ADHD to professionals and peers. What techniques can I use to effectively communicate my needs and concerns regarding ADHD to professionals and peers?
+
+## Prioritizing Self-Care and Well-being
+1. I neglect self-care and feel exhausted and drained most of the time. How can I prioritize self-care and incorporate it into my daily routine to maintain my physical and mental well-being?
+2. I struggle to find time for myself amidst the demands of work and parenting. What strategies can I implement to carve out dedicated time for myself and practice self-care regularly?
+3. I find it challenging to establish a self-care routine and stick to it consistently. How can I develop a self-care routine that becomes a habit and is easy to maintain?
+4. I feel guilty when I take time for myself and worry that I'm neglecting my work and parenting responsibilities. What mindset shifts can I make to overcome guilt and prioritize my self-care without feeling like I'm neglecting my responsibilities?
+5. I struggle with managing stress and anxiety, which impact my overall well-being. How can I effectively manage stress and anxiety as a work-from-home parent with ADHD?
+6. I lack motivation and energy to engage in activities that bring me joy and fulfillment. What strategies can I use to boost my motivation and energy levels to engage in activities that bring me joy and fulfillment?

@@ -1,0 +1,30 @@
+## <bound method PromptListGenerator._get_prompt_list_title of <app.generators.Prompt_List.prompt_list_gen.PromptListGenerator object at 0x000001C5979EA620>>
+
+## Understanding ADHD and Its Impact
+1. I struggle to understand how ADHD specifically affects my work-from-home parenting and daily life. How can I gain a deeper understanding of ADHD and its specific challenges in the context of work-from-home parenting?
+2. I find it hard to recognize how ADHD symptoms affect my daily life and work performance. What can I do to recognize how ADHD symptoms are impacting my daily life and work performance?
+3. I am uncertain about the time and effort required to learn about ADHD and its impact on work and parenting. What steps can I take to dedicate time and effort into learning about ADHD and seeking solutions?
+
+## Creating an ADHD-Friendly Work Environment
+1. My workspace is cluttered and distracting, making it difficult to focus and be productive. How can I create an organized and distraction-free workspace to optimize focus and productivity?
+2. External distractions often disrupt my work and exacerbate my ADHD symptoms. What strategies can I employ to eliminate or reduce external distractions in my work environment?
+3. I am unsure about the time and effort required to declutter, organize, and create an optimal work environment. What steps can I take to invest time and effort into decluttering, organizing, and optimizing my work environment?
+
+## Establishing Effective Routines and Schedules
+1. I struggle with maintaining a structured routine to increase productivity and reduce overwhelm. How can I establish and stick to effective routines and schedules to better manage my ADHD symptoms?
+2. Decision fatigue often overwhelms me, making it difficult to prioritize tasks and stay focused. What strategies can I use to minimize decision fatigue and provide a predictable framework for my work and parenting?
+3. I am uncertain about the time and effort required to establish consistent routines and schedules. How can I invest time and effort into planning and adhering to consistent routines and schedules?
+
+## Improving Time Management Skills
+1. I struggle with prioritizing tasks and often find myself procrastinating. How can I learn effective time management techniques to better prioritize tasks and maximize productivity?
+2. My lack of time management skills leads to inefficiency and difficulty focusing on important tasks. What steps can I take to improve my time management skills and reduce procrastination?
+3. I am unsure about the time and effort required to learn and implement time management strategies. How can I consciously invest time and effort into learning and applying effective time management techniques?
+
+## Prioritizing Self-Care and Well-being
+1. I neglect my own well-being and self-care, which leads to increased stress and overwhelm. How can I make self-care a priority to manage stress, regulate emotions, and improve overall well-being?
+2. I find it challenging to take regular breaks and practice relaxation techniques amidst my busy work and parenting schedule. What strategies can I use to ensure I take regular breaks, engage in relaxation techniques, and practice self-compassion?
+3. I am uncertain about the time and effort required to prioritize self-care activities and practices. How can I make self-care a non-negotiable part of my daily life and invest the necessary time and effort?
+
+## Seeking Support and Building a Supportive Network
+1. I feel isolated and lack a supportive community to share experiences and receive guidance. How can I surround myself with a supportive community and resources to share experiences and receive valuable insights and encouragement?
+2. I am uncertain about the time and effort required to seek and build a support network. What steps can I take to invest time and effort into seeking and building a support network?

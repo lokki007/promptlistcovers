@@ -1,0 +1,25 @@
+## <bound method PromptListGenerator._get_prompt_list_title of <app.generators.Prompt_List.prompt_list_gen.PromptListGenerator object at 0x0000021DFCA5BC40>>
+
+## Identifying ADHD Symptoms and Challenges
+1. I'm not sure if I have ADHD or if my symptoms are just typical challenges of being a busy parent. How can I determine if the symptoms I'm experiencing are related to ADHD?
+2. I find it difficult to stay organized and prioritize tasks, which leads to feelings of overwhelm and procrastination. What strategies can I use to improve my organization skills and better prioritize my tasks?
+3. Managing time and staying focused on work can be a struggle, and it's affecting my productivity. How can I improve my time management skills and stay focused on my work?
+4. I often forget important deadlines and appointments, causing stress and frustration. What techniques can I employ to help me remember deadlines and appointments?
+
+## Education on ADHD Management Strategies
+1. I'm overwhelmed by the vast amount of information available on ADHD management strategies and don't know where to start. How can I find reliable resources and determine which ADHD management strategies will work best for me?
+2. I struggle to explain my ADHD symptoms and challenges to others, which makes it difficult to seek the support I need. What communication strategies can I use to effectively explain my ADHD symptoms and challenges to others?
+3. My current knowledge of ADHD management is limited, and I feel like I need more education to effectively manage my symptoms. How can I educate myself further on ADHD management strategies?
+4. I'm unsure of the different approaches to managing ADHD and which one would work best for me. What are the different approaches to managing ADHD, and how can I determine which one suits me best?
+
+## Implementing ADHD Management Techniques
+1. I often struggle with consistency in implementing ADHD management techniques, which hinders my progress. How can I develop the discipline and consistency to effectively implement ADHD management techniques in my daily life?
+2. I find it challenging to make the necessary changes to my lifestyle and routines to accommodate ADHD management techniques. What steps can I take to make the necessary changes in my lifestyle and routines to accommodate ADHD management techniques?
+3. I get easily overwhelmed and give up on implementing new ADHD management techniques when faced with initial challenges. How can I overcome initial challenges and persist in implementing new ADHD management techniques?
+4. I struggle with finding the right balance between work, parenting, and self-care while implementing ADHD management techniques. What strategies can I use to achieve a balance between work, parenting, and self-care while implementing ADHD management techniques?
+
+## Maintenance and Continuous Improvement
+1. I'm concerned about relapses and losing progress in managing my ADHD symptoms. How can I maintain and continuously improve my ADHD management strategies to prevent relapses?
+2. It's challenging to adapt and refine my ADHD management strategies based on my evolving needs. What steps can I take to adapt and refine my ADHD management strategies as my needs change?
+3. The effort required to maintain and fine-tune my ADHD management approaches feels overwhelming at times. How can I make the effort required to maintain and fine-tune my ADHD management approaches more manageable?
+4. I struggle with consistently committing to self-care practices while managing my ADHD symptoms. What strategies can I use to ensure consistent commitment to self-care while managing my ADHD symptoms?

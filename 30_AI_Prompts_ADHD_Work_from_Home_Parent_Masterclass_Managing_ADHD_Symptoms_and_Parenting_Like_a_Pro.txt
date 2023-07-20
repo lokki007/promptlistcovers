@@ -1,0 +1,43 @@
+## <bound method PromptListGenerator._get_prompt_list_title of <app.generators.Prompt_List.prompt_list_gen.PromptListGenerator object at 0x000002532708B3A0>>
+
+## Understanding ADHD and its Impact on Work and Parenting
+1. I don't fully understand how ADHD affects my work and parenting. How can I gain a deeper understanding of ADHD and its impact on my work and parenting?
+2. I struggle to recognize the symptoms of ADHD and how they affect my productivity and parenting. What are the common symptoms of ADHD and how do they impact my productivity and parenting?
+3. I feel overwhelmed by the amount of time and effort required to research and learn about ADHD. How can I effectively invest my time and effort in researching and learning about ADHD?
+4. Accepting and acknowledging the challenges ADHD presents feels like a sacrifice. How can I accept and acknowledge the challenges ADHD presents without feeling like I'm sacrificing my goals?
+5. I'm uncertain about the likelihood of achieving recognition of my ADHD symptoms and their impact. How can I increase the likelihood of recognizing my ADHD symptoms and understanding their impact?
+
+## Implementing ADHD Management Strategies
+1. I struggle to find effective strategies to manage my ADHD symptoms. What strategies can I discover and implement to effectively manage my ADHD symptoms?
+2. Improving focus, organization, and time management with ADHD seems challenging. How can I identify strategies to improve my focus, organization, and time management despite having ADHD?
+3. Trying out different strategies to find what works best requires significant time investment. How can I effectively invest my time in trying out different strategies for managing my ADHD?
+4. Making changes and experimenting with different approaches feels like a sacrifice. How can I make changes and experiment with different approaches to manage my ADHD without feeling like I'm sacrificing my routine?
+5. I'm uncertain about the likelihood of achieving success in implementing ADHD management strategies. How can I increase the likelihood of successfully implementing ADHD management strategies?
+
+## Creating an ADHD-Friendly Work Environment
+1. I struggle to establish a work environment that supports focus and productivity with ADHD. How can I create an ADHD-friendly work environment that optimizes my focus and productivity?
+2. Minimizing distractions in my physical workspace feels challenging. What steps can I take to minimize distractions and optimize my physical workspace for better focus?
+3. Organizing my workspace and setting up effective systems feels time-consuming. How can I effectively invest my time in organizing my workspace and setting up systems that support my ADHD management?
+4. Making adjustments to create an ideal work environment feels like a sacrifice. How can I make adjustments to create an ideal work environment for managing my ADHD without feeling like I'm sacrificing my work needs?
+5. I'm uncertain about the likelihood of establishing an ADHD-friendly work environment. How can I increase the likelihood of successfully creating an ADHD-friendly work environment?
+
+## Implementing ADHD-Friendly Parenting Strategies
+1. I struggle to develop effective parenting strategies while managing my own ADHD. How can I develop ADHD-friendly parenting strategies that support my children while managing my own symptoms?
+2. Identifying parenting techniques that cater to my ADHD challenges feels overwhelming. What are some parenting techniques that are effective for parents with ADHD?
+3. Investing time in learning and implementing ADHD-friendly parenting approaches feels demanding. How can I effectively invest my time in learning and implementing ADHD-friendly parenting approaches?
+4. Balancing parenting responsibilities with self-management feels like a sacrifice. How can I balance my parenting responsibilities with managing my own ADHD without feeling overwhelmed?
+5. I'm uncertain about the likelihood of developing effective ADHD-friendly parenting strategies. How can I increase the likelihood of successfully developing ADHD-friendly parenting strategies?
+
+## Prioritizing Self-Care
+1. I struggle to invest in self-care practices that support my mental and emotional well-being. How can I prioritize self-care and invest in practices that support my mental and emotional well-being despite my busy schedule?
+2. Acknowledging the importance of self-care and incorporating it into my routine feels challenging. What are some effective self-care practices that I can incorporate into my daily routine as a busy parent with ADHD?
+3. Carving out time for self-care amidst my busy schedule feels like a sacrifice. How can I carve out dedicated time for self-care without feeling like I'm sacrificing my parenting and work responsibilities?
+4. Dedicating time to self-care activities and practices feels demanding. How can I invest my time in self-care activities and practices effectively?
+5. I'm uncertain about the likelihood of prioritizing and maintaining self-care practices. How can I increase the likelihood of prioritizing and maintaining self-care practices despite the demands of parenting and work?
+
+## Establishing Productive Routines and Habits
+1. I struggle to develop consistent routines and habits to manage my ADHD symptoms effectively. How can I establish and maintain consistent routines and habits that support my ADHD management?
+2. Building and maintaining routines with ADHD feels challenging. What steps can I take to build and maintain routines that cater to my ADHD symptoms?
+3. Establishing and reinforcing new routines and habits requires significant time investment. How can I effectively invest my time in establishing and reinforcing new routines and habits for managing my ADHD?
+4. Creating structure and sticking to new routines feels like a sacrifice. How can I create structure and stick to new routines without feeling like I'm sacrificing my flexibility?
+5. I'm uncertain about the likelihood of establishing productive routines and habits. How can I increase the likelihood of successfully establishing productive routines and habits?

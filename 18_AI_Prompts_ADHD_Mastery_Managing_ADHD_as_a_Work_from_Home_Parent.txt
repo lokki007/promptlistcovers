@@ -1,0 +1,25 @@
+## <bound method PromptListGenerator._get_prompt_list_title of <app.generators.Prompt_List.prompt_list_gen.PromptListGenerator object at 0x000002203C17BC40>>
+
+## Improving Focus and Productivity
+1. I find it challenging to stay focused on my work while also taking care of my children. How can I improve my focus and productivity while managing my parenting responsibilities?
+2. I often get distracted easily and struggle to stay on task. What strategies can I use to minimize distractions and improve my attention span?
+3. I have difficulty managing my time effectively and tend to procrastinate. How can I develop time management skills to overcome procrastination and increase productivity?
+4. I feel overwhelmed trying to balance work and parenting, and it affects my ability to concentrate. What techniques can I adopt to create a better balance between work and parenting, allowing me to focus on both?
+5. I often feel disorganized and struggle to prioritize tasks. How can I develop organizational skills to better prioritize my tasks and stay on top of my responsibilities?
+6. I find it challenging to maintain motivation and stay on track with my goals. What strategies can I use to stay motivated and achieve my goals despite the challenges of ADHD?
+
+## Managing Parenting Duties and ADHD Challenges
+1. I struggle with setting boundaries with my children and managing their behavior. How can I establish effective boundaries and manage my children's behavior while dealing with ADHD challenges?
+2. I often forget important tasks or appointments related to my children's schedules. What strategies can I implement to better manage my children's schedules and remember important tasks and appointments?
+3. I find it difficult to provide consistent discipline and structure for my children. How can I establish consistent discipline and a structured routine for my children?
+4. I feel overwhelmed with the demands of parenting and struggle to cope with stress. What coping mechanisms can I develop to manage stress and maintain a positive mindset as a parent with ADHD?
+5. I have difficulty communicating effectively with my children, which can lead to misunderstandings and conflicts. How can I improve my communication skills with my children to foster understanding and prevent conflicts?
+6. I struggle with multitasking and often feel overwhelmed trying to handle multiple parenting responsibilities. What strategies can I employ to handle multiple parenting responsibilities without feeling overwhelmed?
+
+## Self-Care and Maintaining Emotional Well-being
+1. I neglect self-care activities and prioritize others' needs over my own. How can I prioritize self-care and ensure that I take care of my own needs while managing parenting duties and ADHD challenges?
+2. I often experience emotional highs and lows, and it affects my overall well-being. What practices can I adopt to maintain emotional stability and well-being as a parent with ADHD?
+3. I struggle with feelings of guilt and inadequacy as a parent with ADHD. How can I overcome feelings of guilt and build self-confidence in my parenting abilities despite my ADHD?
+4. I find it challenging to find time for myself and engage in activities that bring me joy. What strategies can I use to create time for myself and engage in activities that bring me joy and fulfillment?
+5. I have difficulty managing stress and tend to become overwhelmed easily. How can I develop strategies to manage stress and maintain a sense of calm amidst the challenges of parenting with ADHD?
+6. I struggle with maintaining consistent self-care practices and often neglect my own well-being. What steps can I take to establish sustainable self-care practices and ensure that I prioritize my own well-being?

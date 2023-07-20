@@ -1,0 +1,25 @@
+## <bound method PromptListGenerator._get_prompt_list_title of <app.generators.Prompt_List.prompt_list_gen.PromptListGenerator object at 0x000001D8FA6EBC40>>
+
+## Establish Work-Life Boundaries for Better Balance
+1. I find it challenging to separate my work life from my personal life, leading to feelings of burnout and overwhelm. How can I establish clear boundaries between work and personal life to achieve a better work-life balance?
+2. I often feel guilty when I prioritize personal and family time over work, and it affects my productivity and mental well-being. How can I overcome the guilt of prioritizing personal and family time while setting realistic expectations for work?
+3. Communicating my boundaries effectively to my family and colleagues is difficult, resulting in constant interruptions and distractions. What strategies can I use to effectively communicate and enforce my boundaries with both family members and colleagues?
+4. I struggle with saying no to additional work or tasks, which leads to an overwhelming workload and increased stress levels. How can I learn to say no and set reasonable limits on my workload to prevent burnout?
+5. I have a hard time disconnecting from work, and it affects my ability to relax and recharge during personal time. What techniques can I use to disconnect from work and fully enjoy my personal and family time?
+6. I find it challenging to create a physical separation between my work and personal space, making it difficult to switch between roles. How can I establish clear physical boundaries between my work and personal space to create a focused and productive work environment?
+
+## Prioritize Self-Care and Stress Management
+1. I struggle with managing stress and end up feeling overwhelmed and exhausted. How can I prioritize self-care and find effective stress management techniques to maintain mental well-being?
+2. I neglect my own needs and self-care routines while trying to balance work and parenting responsibilities. What strategies can I use to make self-care a priority and incorporate it into my daily routine?
+3. It's challenging to find time for exercise and physical activity, which negatively impacts my overall well-being. How can I incorporate regular exercise and physical activity into my daily routine to improve my mental and physical health?
+4. I often feel guilty when taking breaks for self-care, as if I'm not being productive enough. How can I overcome the guilt and allow myself to take breaks for self-care without feeling unproductive?
+5. I struggle with maintaining a healthy sleep schedule, which affects my productivity and focus during the day. What strategies can I implement to improve my sleep schedule and ensure better productivity and focus?
+6. I frequently experience feelings of overwhelm and anxiety, and it affects my ability to perform well in both work and parenting. How can I manage feelings of overwhelm and anxiety effectively to enhance my performance and well-being?
+
+## Seek Support and Accountability
+1. I often feel isolated and misunderstood in managing my ADHD symptoms, and it affects my motivation and confidence. How can I find support from others who understand my challenges and establish accountability to stay focused and motivated?
+2. I struggle to ask for help or delegate tasks, and it leads to increased stress and feeling overwhelmed. What strategies can I use to overcome the fear of asking for help and effectively delegate tasks to others?
+3. Finding a supportive community of individuals who can provide guidance and understanding is challenging. How can I find a supportive community or group of individuals who can provide guidance and understanding in managing my ADHD symptoms?
+4. I have difficulty staying accountable to my goals and commitments, and it hinders my progress and success. What techniques can I use to establish accountability in managing my ADHD symptoms and achieving my goals?
+5. I'm hesitant to seek professional help for managing my ADHD symptoms, and it limits my growth and development. How can I overcome the hesitation and seek the necessary professional help to better manage my ADHD symptoms?
+6. I struggle with consistent follow-through on tasks and projects, and it affects my productivity and performance. What strategies can I implement to improve my follow-through and ensure timely completion of tasks and projects?

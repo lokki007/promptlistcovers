@@ -1,0 +1,9 @@
+## <bound method PromptListGenerator._get_prompt_list_title of <app.generators.Prompt_List.prompt_list_gen.PromptListGenerator object at 0x000002C39BACBC40>>
+
+## Self-Care and Well-being Focus
+1. Finding time to prioritize self-care and well-being is a challenge, and I often neglect my own needs. How can I carve out time to prioritize self-care and well-being despite my busy schedule?
+2. Managing ADHD symptoms while working from home and parenting feels overwhelming, and I struggle to stay focused and productive. What strategies can I implement to effectively manage my ADHD symptoms and improve focus and productivity?
+3. Maintaining a healthy work-life balance as a work-from-home parent with ADHD seems impossible, and I often feel burnt out. How can I create boundaries and establish a healthy work-life balance while managing ADHD symptoms?
+4. Dealing with distractions at home and staying organized feels challenging, and I often get overwhelmed and lose track of tasks. What techniques can I use to minimize distractions, stay organized, and stay on top of my tasks?
+5. Handling parenting responsibilities while managing ADHD symptoms feels like a juggling act, and I struggle to give my children the attention they need. How can I effectively manage parenting responsibilities while managing ADHD symptoms and ensure quality time with my children?
+6. Coping with stress and anxiety as a work-from-home parent with ADHD feels challenging, and I often feel overwhelmed. What coping mechanisms can I adopt to manage stress and anxiety and maintain a sense of calm and balance?

@@ -1,0 +1,25 @@
+## <bound method PromptListGenerator._get_prompt_list_title of <app.generators.Prompt_List.prompt_list_gen.PromptListGenerator object at 0x0000019E7F87BC40>>
+
+## Time Management
+1. I often find myself lost in time and struggle to keep track of important deadlines and appointments. How can I improve my time management skills and stay organized with my schedule?
+2. I often get overwhelmed with multiple tasks and struggle to prioritize them effectively. How can I prioritize my tasks and manage my time more efficiently?
+3. I frequently get distracted by things around me and struggle to stay focused on my work. What strategies can I use to minimize distractions and stay focused while working from home?
+4. I often underestimate the time it takes to complete tasks and end up feeling overwhelmed by unfinished work. How can I better estimate the time required for tasks and manage my workload effectively?
+
+## Focus and Productivity
+1. I struggle to maintain focus on my work and easily get distracted by my surroundings or thoughts. What techniques can I use to improve my focus and minimize distractions while working from home?
+2. I often feel overwhelmed by the amount of work I need to accomplish and find it hard to stay motivated. How can I stay motivated and productive while facing the challenges of working from home?
+3. During meetings or important work tasks, my mind often wanders, and I struggle to concentrate. What strategies can I employ to enhance my concentration and actively engage in meetings or tasks?
+4. I frequently struggle with starting tasks and can procrastinate for extended periods of time. How can I overcome procrastination and develop a more productive work routine?
+
+## Parenting Strategies
+1. I find it difficult to balance my work tasks with my parenting responsibilities and often feel overwhelmed. What strategies can I implement to effectively manage my parenting responsibilities while working from home?
+2. I often struggle with setting boundaries and find it challenging to separate work time from family time. How can I establish boundaries and create a structured routine that balances work and family time?
+3. My children frequently interrupt my work, and I struggle to find a balance between attending to their needs and completing my tasks. What techniques can I use to minimize interruptions and manage my children's needs while working from home?
+4. I often feel guilty for not being able to give my children enough attention while working from home. How can I alleviate the guilt and find ways to spend quality time with my children despite my work commitments?
+
+## Self-Care and Well-being
+1. I often neglect my own self-care and struggle to prioritize my well-being amidst my busy schedule. How can I make self-care a priority and incorporate it into my daily routine?
+2. I frequently experience high levels of stress and find it challenging to manage my emotions. What techniques can I use to effectively manage stress and regulate my emotions?
+3. I struggle to find time for physical exercise and maintaining a healthy lifestyle. How can I incorporate exercise and healthy habits into my daily routine?
+4. I often feel overwhelmed and burnt out, and I need strategies to restore my energy and motivation. What practices can I adopt to prevent burnout and maintain my motivation and energy levels?
